@@ -80,3 +80,6 @@ This project is released under the MIT License. Feel free to use, modify, and di
 
 ---
 
+## Contact
+Feel free to contact me at oliversantana8686@gmail.com for any questions.
+
